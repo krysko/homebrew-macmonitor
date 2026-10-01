@@ -1,8 +1,8 @@
 class Macmonitor < Formula
   desc "Menu bar monitor for CPU, memory, and CPU temperature"
   homepage "https://github.com/krysko/MacMonitor"
-  url "https://github.com/krysko/MacMonitor/archive/refs/tags/v1.0.2.tar.gz"
-  sha256 "182bfc58c1ce10fbf49b8026d7708019fdd355444334530d359c0d53af863a11"
+  url "https://github.com/krysko/MacMonitor/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "00e13945edeb83c7736de25848d0e993c8e7688fa0524f9986ba3509d80bafea"
   depends_on macos: :sonoma
 
   def install
